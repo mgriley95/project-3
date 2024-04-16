@@ -36,8 +36,8 @@ CREATE TABLE geolocation (
     Y_COORD_CD VARCHAR(50),
     Latitude FLOAT,
     Longitude FLOAT
+    FOREIGN KEY (INCIDENT_KEY) REFERENCES shooting (INCIDENT_KEY)
 );
 
 
 
-select * from geolocation
