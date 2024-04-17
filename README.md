@@ -10,4 +10,3 @@ The data source was located on data.gov and is from the NYPD’s shooting data f
 	https://catalog.data.gov/dataset/nypd-shooting-incident-data-historic
 
 Assistance in coding was done through the help of tutors and past assignments as well as  Stack Overflow. The charts and graphs for this project were done with Plotly. 
-![image](https://github.com/mgriley95/project-3/assets/150875359/c6b85f40-8d3e-4655-893a-75c62a7f589f)
